@@ -1,6 +1,14 @@
 # Run an Example
 
 
+
+## Note:
+If this is useful for your project, please cite these two papers:
+* [CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation
+for Neural Summarization Systems](https://arxiv.org/pdf/2010.05139.pdf) (See section 4.3)
+* [DataLab: A Platform for Data Analysis and Intervention](https://arxiv.org/pdf/2202.12875.pdf) (See [1](https://expressai.github.io/DataLab/docs/WebUI/compare_two_datasets) [2](https://datalab.nlpedia.ai/normal_dataset/6176883933e51a7edda9dd68/dataset_featurize))
+
+
 ## 1 Install DataLab
 ```
 pip install --upgrade pip
